@@ -2,7 +2,6 @@
 <h3 align="center">Im passionate about programming and im currently self teaching myself the Python Language</h3>
 
 
-<p align="left"> <a href="https://twitter.com/CarlKyng" target="blank"><img src="https://img.shields.io/twitter/follow/CarlKyng?logo=twitter&style=for-the-badge" alt="CarlKying" /></a> </p>
 
 - 🌱 I’m currently learning **Python Language**
 
